@@ -24,7 +24,7 @@ function App() {
 function Home() {
   return (
     <div style={{ textAlign: "center" }}>
-      <h1>API Learning Task</h1>
+      <h1>promise  Task</h1>
       <p>Please click below links for appropriate API's</p>
       <br />
       <div className='links'>
